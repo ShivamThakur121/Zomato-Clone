@@ -5,13 +5,23 @@
     display: flex;
     justify-content: center;
 }
+.body_part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.third_head{
+    margin-left: 3px;
+}
 Body{
     background-color: white;
 }
 .imgfir,.imgfou,.imgsec,.imgthi{
     border: 5px solid black;
+    border-radius: 10px;
     margin-left: 2px;
-    width: 25vw;
+    margin-right: 5px;
+    width: 24vw;
     height: 450px;
 }
 
