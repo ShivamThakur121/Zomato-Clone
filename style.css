@@ -2,7 +2,8 @@
     margin: 0;
 }
 .Container_1{
-    display: inline-block;
+    display: flex;
+    align-items: center;
 }
 Body{
     background-color: white;
@@ -18,12 +19,14 @@ Body{
     height: 450px;
     border: 5px solid black;
     margin-left: 3px;
+    
 }
 .imgthi{
     width: 365px;
     height: 450px;
     border: 5px solid black;
     margin-left: 3px;
+    
 }
 .imgfou{
     width: 360px;
