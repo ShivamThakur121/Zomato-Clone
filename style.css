@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+}
+.Container_1{
+    display: inline-block;
+}
+Body{
+    background-color: white;
+}
+.imgfir{
+    width: 355px;
+    height: 450px;
+    border: 5px solid black;
+    margin-left: 2px;
+}
+.imgsec{
+    width: 367px;
+    height: 450px;
+    border: 5px solid black;
+    margin-left: 3px;
+}
+.imgthi{
+    width: 365px;
+    height: 450px;
+    border: 5px solid black;
+    margin-left: 3px;
+}
+.imgfou{
+    width: 360px;
+    height: 450px;
+    border: 5px solid black;
+    margin-left: 3px;
+    margin-right: 2px;
+}
+
+.brand{
+    color: red;
+    margin-right: 150px;
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: 25px;
+}
+.searching{
+    height: 25px;
+    width: 300px;
+    position: relative;
+    margin-right: 50px;
+    bottom: 5px;
+}
+button{
+    height: 35px;
+    width: 60px;
+    position: relative;
+    bottom: 8px;
+    font-size: 10px;
+    margin-right: 50px;
+    border: none;
+    cursor: pointer;
+}
+.img3{
+    height: 60px;
+    width: 60px;
+}
+.brand, .search, .sign{
+    position: relative;
+}
+.dine, .nighting, .delivering{
+    position: relative;
+    bottom: 22px;
+    left: 5px;
+}
+.second{
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.dinning{
+    margin-left: 200px;
+}
+.third{
+    height: 500px;
+    background-color: rgb(229, 233, 234);
+}
+.delivery, .nightlife{
+    margin-left: 50px;
+}
+.first{
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+.card:hover{
+    background-color: rgb(241, 241, 241);
+    border-color: rgb(241, 241, 241);
+}
+.off{
+    background-color: rgba(23, 13, 216, 0.4);
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    bottom: 15px;
+}
+.image{
+    position: relative;
+}
+.card{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px; 
+    cursor: pointer;
+    border: 10px solid white;
+    border-radius: 15px;
+}
+.Box{
+    display: inline-block;
+}
+.restaurant{
+    position: relative;
+    margin: 3px;
+    margin-top: 10px;
+}
+.img1{
+    height: 280px;
+    width: 30vw;
+    border-radius: 15px;
+}
+.Restaurant_name{
+    font-size: 20px;
+    font-weight: bold; 
+}
+.rating{
+    background-color: green;
+    height: 15px;
+    padding: 2px;
+    color: white;
+    border-radius: 8px;
+    position: absolute;
+    right: 5px;
+}
+.dishes, .location_name{
+    margin: 3px;
+    position: relative;
+    color: rgb(119, 118, 118);
+}
+.price, .distance{
+    position: absolute;
+    right: 5px;
+}
+.distance{
+    font-weight: bold;
+}
