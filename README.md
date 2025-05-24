@@ -20,7 +20,9 @@ This is a front-end clone of Zomato’s homepage, built using **HTML** and **CSS
 
 ## 📸 Preview
 
-![Zomato Clone Preview](./assets/screenshot-preview.png)
+![Zomato Clone Preview](./assets/Screenshot (77).png)
+![Zomato Clone Preview](./assets/Screenshot (78).png)
+![Zomato Clone Preview](./assets/Screenshot (79).png)
 
 > *Built with pixel-perfect layout and responsive design principles.*
 
