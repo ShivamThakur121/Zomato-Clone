@@ -3,37 +3,16 @@
 }
 .Container_1{
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 Body{
     background-color: white;
 }
-.imgfir{
-    width: 355px;
-    height: 450px;
+.imgfir,.imgfou,.imgsec,.imgthi{
     border: 5px solid black;
     margin-left: 2px;
-}
-.imgsec{
-    width: 367px;
+    width: 25vw;
     height: 450px;
-    border: 5px solid black;
-    margin-left: 3px;
-    
-}
-.imgthi{
-    width: 365px;
-    height: 450px;
-    border: 5px solid black;
-    margin-left: 3px;
-    
-}
-.imgfou{
-    width: 360px;
-    height: 450px;
-    border: 5px solid black;
-    margin-left: 3px;
-    margin-right: 2px;
 }
 
 .brand{
@@ -83,7 +62,9 @@ button{
 }
 .third{
     height: 500px;
-    background-color: rgb(229, 233, 234);
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    position: relative;
 }
 .delivery, .nightlife{
     margin-left: 50px;
